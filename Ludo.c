@@ -11,6 +11,9 @@ struct jogador {
 	int dado, vitoria_j;
 };
 
+// TRABALHO REALIZADO NA MATÉRIA DE ALGORITMOS E ESTRUTURAS DE DADOS 2
+// ENGENHARIA DA COMPUTAÇÃO - UEMG - 2° SEMESTRE 2023
+
 int rolar_dado ();
 
 int mover_peao (struct jogador *jog_p, int i, int j);
